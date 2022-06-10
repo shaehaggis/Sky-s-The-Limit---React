@@ -1,0 +1,137 @@
+{
+    "MostPopularitems": [
+        {
+            "id": 1,
+            "name": "Flat White",
+            "price": "4.00",
+            "imageSrc": "/Flat_white.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bacon & Egg Sandwich",
+            "price": "5.00",
+            "imageSrc": "/bacon_egg.jpeg"
+        }
+    ],
+    "food": {
+            "BBQ": [
+                {
+                    "id": 3,
+                    "name": "Sausage Sizzle",
+                    "price": "2.50",
+                    "imageSrc": "/Flat_white.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Bacon & Egg Sandwich",
+                    "price": "5.00",
+                    "imageSrc": "/bacon_egg.jpeg"
+                },
+                {
+                    "id": 5,
+                    "name": "Deluxe (Bacon, Egg & Sausage)",
+                    "price": "8.00",
+                    "imageSrc": "/bacon_egg.jpeg"
+                }
+            ],
+            "Burger": [
+                {
+                    "id": 6,
+                    "name": "Chicken Burger",
+                    "price": "6.00",
+                    "imageSrc": "/Flat_white.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Beef Burger",
+                    "price": "6.00",
+                    "imageSrc": "/bacon_egg.jpeg"
+                },
+                {
+                    "id": 8,
+                    "name": "Veggie Burger",
+                    "price": "8.00",
+                    "imageSrc": "/bacon_egg.jpeg"
+                }
+            ]
+    },
+    "drink": {
+        "Coffee": [
+            {
+                "id": 9,
+                "name": "Flat White",
+                "price": "4.00",
+                "imageSrc": "/Flat_white.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Macchiato",
+                "price": "4.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 11,
+                "name": "Cappucino",
+                "price": "4.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 12,
+                "name": "Affogato",
+                "price": "5.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 13,
+                "name": "Latte",
+                "price": "4.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 14,
+                "name": "Mocha",
+                "price": "4.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 15,
+                "name": "Hot Chocolate",
+                "price": "4.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            }
+
+        ],
+        "SoftDrink": [
+            {
+                "id": 16,
+                "name": "Coke",
+                "price": "2.00",
+                "imageSrc": "/Flat_white.jpg"
+            },
+            {
+                "id": 17,
+                "name": "Coke No Sugar",
+                "price": "2.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 18,
+                "name": "Solo",
+                "price": "2.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 19,
+                "name": "Fanta",
+                "price": "2.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            },
+            {
+                "id": 20,
+                "name": "Sprite",
+                "price": "2.00",
+                "imageSrc": "/bacon_egg.jpeg"
+            }
+        ]
+    }
+}
